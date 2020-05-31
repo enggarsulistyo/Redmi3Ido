@@ -1,6 +1,5 @@
 <h1 align="center">Redmi 3 Ido
 <br>
-  <br>
   <img src="https://img.shields.io/badge/Version-1.0%20Beta-blue" alt="version"/>  | <img src="https://img.shields.io/badge/Enggar-Sulistyo-brightgreen" alt="author"/>
 </h1>
 <h1> About </h1>
