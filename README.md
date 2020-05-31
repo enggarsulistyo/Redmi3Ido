@@ -10,4 +10,9 @@ This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
 <br>
 - Already installed TWRP
 <br>
+<h1> Installation </h1>
+- Zip folder firmware-upgrade and META-INF
 <br>
+- Boot into TWRP and flash your zip
+<br>
+- Reboot system
