@@ -1,0 +1,16 @@
+ui_print(" ");
+ui_print("Redmi 3 Ido Fix Linux Logo");
+ui_print("--------------------------");
+ui_print("Miui Version: 9.5.2.0 LAIMIFA");
+ui_print("github.com/enggarsulistyo");
+ui_print(" ");
+show_progress(0.500000, 0);
+run_program("/sbin/busybox", "mount", "/system");
+run_program("/sbin/busybox", "mount", "/rootfs");
+show_progress(0.500000, 0);
+ui_print("Flashing ...");
+package_extract_file("/firmware-upgrade/splash.img", "/dev/block/bootdevice/by-name/splash");
+show_progress(0.500000, 0);
+run_program("/sbin/busybox", "unmount", "/system");
+run_program("/sbin/busybox", "unmount", "/rootfs");
+ui_print("Done ...);
