@@ -2,17 +2,24 @@
 <br>
   <img src="https://img.shields.io/badge/Version-1.0%20Beta-blue" alt="version"/>  | <img src="https://img.shields.io/badge/Enggar-Sulistyo-brightgreen" alt="author"/>
 </h1>
-<h1> About </h1>
-This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
+<h4> About </h4>
+&nbsp; &nbsp; &nbsp; This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
 <br>
-<h1> Required </h1>
-• Miui 9 Global Version 9.5.2.0 LAIMIFA
+<h4> Required </h4>
+&nbsp; &nbsp; &nbsp;• Miui 9 Global Version 9.5.2.0 LAIMIFA
 <br>
-• Already installed TWRP
+&nbsp; &nbsp; &nbsp;• Already installed TWRP
 <br>
-<h1> Installation </h1>
-• Zip folder firmware-upgrade and META-INF
+<h4> Installation </h4>
+&nbsp; &nbsp; &nbsp; • Zip folder firmware-upgrade and META-INF
 <br>
-• Boot into TWRP and flash your zip
+&nbsp; &nbsp; &nbsp; • Boot into TWRP and flash your zip
 <br>
-• Reboot system
+&nbsp; &nbsp; &nbsp;• Reboot system
+<br>
+<br>
+<h4 align="center">
+Social Links
+<br>
+<a href="https://mobile.twitter.com/SayasiapayaSaya"><img src="https://img.shields.io/badge/Twitter-EnggarSulistyo-lightgrey?style=flat&logo=twitter" alt="twitter"/></a>
+</h4>
