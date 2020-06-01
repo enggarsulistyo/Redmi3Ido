@@ -15,7 +15,7 @@
 <br>
 &nbsp; &nbsp; &nbsp; • Boot into TWRP and flash your zip
 <br>
-&nbsp; &nbsp; &nbsp;• Reboot system
+&nbsp; &nbsp; &nbsp; • Reboot system
 <br>
 <br>
 <h4 align="center">
