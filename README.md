@@ -24,7 +24,7 @@ Social Links
 <br>
 <a href="https://mobile.twitter.com/SayasiapayaSaya"><img src="https://img.shields.io/badge/Twitter-EnggarSulistyo-deepskyblue?style=flat&logo=twitter" alt="twitter"/></a>
 <br>
-<a href="https://facebook.com/bheb.van"><img src="https://img.shields.io/badge/Facebook-EnggarSulistyo-chineseblue?style=flat&logo=facebook" alt="facebook"/></a>
+<a href="https://facebook.com/bheb.van"><img src="https://img.shields.io/badge/Facebook-EnggarSulistyo-blue?style=flat&logo=facebook" alt="facebook"/></a>
 <br>
 <a href="mailto:enggar.sulistyo@gmail.com"><img src="https://img.shields.io/badge/Mail-Gmail-red?style=flat&logo=gmail" alt="gmail"/></a>
 </h4>
