@@ -1,6 +1,6 @@
 <h1 align="center">Redmi 3 Ido
 <br>
-  <img src="https://img.shields.io/badge/Version-1.0%20Beta-blue" alt="version"/>  | <img src="https://img.shields.io/badge/Enggar-Sulistyo-brightgreen" alt="author"/>
+  <img src="https://img.shields.io/badge/Version-1.0%20Beta-yellow" alt="version"/>  | <img src="https://img.shields.io/badge/Enggar-Sulistyo-brightgreen" alt="author"/>
 </h1>
 <h4> About </h4>
 &nbsp; &nbsp; &nbsp; This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
