@@ -4,19 +4,19 @@
 </h1>
 
 #### About
-<p> This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
-<br>
-<h4> Required </h4>
-&nbsp; &nbsp; &nbsp;• Miui 9 Global Version 9.5.2.0 LAIMIFA
-<br>
-&nbsp; &nbsp; &nbsp;• Already installed TWRP
-<br>
-<h4> Installation </h4>
-&nbsp; &nbsp; &nbsp; • Zip folder firmware-upgrade and META-INF
-<br>
-&nbsp; &nbsp; &nbsp; • Boot into TWRP and flash your zip
-<br>
-&nbsp; &nbsp; &nbsp; • Reboot system
+&nbsp; &nbsp; &nbsp; This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
+
+#### Required
+> &nbsp; &nbsp; &nbsp; • Miui 9 Global Version 9.5.2.0 LAIMIFA
+
+> &nbsp; &nbsp; &nbsp; • Already installed TWRP
+
+#### Installation
+> &nbsp; &nbsp; &nbsp; • Zip folder firmware-upgrade and META-INF
+
+> &nbsp; &nbsp; &nbsp; • Boot into TWRP and flash your zip
+
+> &nbsp; &nbsp; &nbsp; • Reboot system
 <br>
 <br>
 <h4 align="center">
