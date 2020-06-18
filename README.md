@@ -9,9 +9,9 @@
 <br>
 
 #### Required
->     Miui 9 Global Version 9.5.2.0 LAIMIFA
+`Miui 9 Global Version 9.5.2.0 LAIMIFA `
 
->     Already installed TWRP
+`Already installed TWRP`
 
 <br>
 
