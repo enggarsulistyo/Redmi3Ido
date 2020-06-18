@@ -15,11 +15,11 @@
 <br>
 
 #### Installation
->     Zip folder firmware-upgrade and META-INF
+*     Zip folder firmware-upgrade and META-INF
 
->     Boot into TWRP and flash your zip
+*     Boot into TWRP and flash your zip
 
->     Reboot system
+*     Reboot system
 
 <br>
 
