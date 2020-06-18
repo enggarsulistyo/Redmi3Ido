@@ -4,7 +4,7 @@
 </h1>
 
 #### About
-&nbsp; &nbsp; &nbsp; This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
+<p> This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
 
 <br>
 
