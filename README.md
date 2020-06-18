@@ -17,17 +17,17 @@
 > &nbsp; &nbsp; &nbsp; • Boot into TWRP and flash your zip
 
 > &nbsp; &nbsp; &nbsp; • Reboot system
-<br>
-<br>
-<h4 align="center">
-Social Links
-<br>
-<br>
+
+
+->
+##### Social Links <-
+
+
 <a href="https://mobile.twitter.com/SayasiapayaSaya"><img src="https://img.shields.io/badge/Twitter-EnggarSulistyo-deepskyblue?style=flat&logo=twitter" alt="twitter"/></a>
-<br>
-<br>
+
+
 <a href="https://facebook.com/bheb.van"><img src="https://img.shields.io/badge/Facebook-EnggarSulistyo-blue?style=flat&logo=facebook" alt="facebook"/></a>
-<br>
-<br>
+
+
 <a href="mailto:enggar.sulistyo@gmail.com"><img src="https://img.shields.io/badge/Mail-Gmail-red?style=flat&logo=gmail" alt="gmail"/></a>
-</h4>
+
