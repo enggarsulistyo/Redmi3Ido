@@ -20,9 +20,8 @@
 
 
 <div align="center">
-##### Social Links
 
-
+<h5 align="center"> Sosial Links </h5>
 <a href="https://mobile.twitter.com/SayasiapayaSaya"><img src="https://img.shields.io/badge/Twitter-EnggarSulistyo-deepskyblue?style=flat&logo=twitter" alt="twitter"/></a>
 
 
