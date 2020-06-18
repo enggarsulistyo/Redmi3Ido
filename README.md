@@ -2,8 +2,9 @@
 <br>
   <img src="https://img.shields.io/badge/Version-1.0%20Beta-yellow" alt="version"/>  | <img src="https://img.shields.io/badge/Enggar-Sulistyo-brightgreen" alt="author"/>
 </h1>
-<h4> About </h4>
-&nbsp; &nbsp; &nbsp; This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
+
+#### About
+<p> This doc for redmi 3 ido stuck logo penguin linux which can't be reinstalled.
 <br>
 <h4> Required </h4>
 &nbsp; &nbsp; &nbsp;• Miui 9 Global Version 9.5.2.0 LAIMIFA
